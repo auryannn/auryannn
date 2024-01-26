@@ -1,0 +1,124 @@
+# Linux
+*.log
+*~
+.Trash-*
+.directory
+.fuse_hidden*
+.nfs*
+
+# Windows
+$RECYCLE.BIN/
+*.cab
+*.exe
+*.lnk
+*.msi
+*.msix
+*.msm
+*.msp
+*.stackdump
+Thumbs.db
+Thumbs.db:encryptable
+[Dd]esktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+
+# macOS
+*.icloud
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DS_Store
+.DocumentRevisions-V100
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+._*
+.apdisk
+.com.apple.timemachine.donotpresent
+.fseventsd
+Icon
+Network Trash Folder
+Temporary Items
+
+# Visual Studio Code
+!.vscode/*.code-snippets
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+*.vsix
+.history/
+.vscode/*
+
+# JetBrains
+!.idea/codeStyles
+!.idea/runConfigurations
+*.iml
+*.ipr
+*.iws
+*.iws
+.idea/*
+.idea_modules/
+atlassian-ide-plugin.xml
+cmake-build-*/
+com_crashlytics_export_strings.xml
+crashlytics-build.properties
+crashlytics.properties
+fabric.properties
+out/
+
+# Xcode
+*.xccheckout
+*.xcscmblueprint
+xcuserdata/
+
+# NetBeans
+.nb-gradle/
+nbbuild/
+nbdist/
+nbproject/*
+
+# Vim
+*~
+.netrwhist
+Session.vim
+Sessionx.vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]*.un~
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+tags
+
+# Emacs
+*.elc
+*.rel
+*_archive
+*_flymake.*
+.\#*
+.cask/
+.dir-locals.el
+.org-id-locations
+.projectile
+/.emacs.desktop
+/.emacs.desktop.lock
+/auto/
+/elpa/
+/eshell/history
+/eshell/lastdir
+/network-security.data
+/server/
+\#*\#
+auto-save-list
+flycheck_*.el
+tramp
+
+# Notepad++
+*.bak
+
+# Diff
+*.diff
+*.patch
